@@ -7,8 +7,7 @@ In today’s fast-paced digital world, efficiently accessing and extracting info
 
 Imagine you’re dealing with multiple PDF documents, trying to extract specific information quickly. Traditional methods can be time-consuming and tedious. Our AI chatbot changes the game by allowing you to interact with your documents through natural language queries, providing accurate answers instantly. This project leverages advanced AI technologies, including LlamaIndex for vector storage and Langchain for conversational AI, to make document interaction smarter and more intuitive.
 
-# The Technology Stack
- #
+# The Technology Stack #
 To bring this vision to life, we used a robust technology stack:
 
     -- LlamaIndex: For creating and managing a vector store to efficiently handle document data.
